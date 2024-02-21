@@ -1,5 +1,0 @@
-this is program1
-#include<conio.h>
-void main(){
-printf("hello world");
-}
